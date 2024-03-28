@@ -36,4 +36,4 @@ jobs:
           password: ${{ secrets.PASSWORD }}
           port: 22
           source: "docs/.vuepress/dist/"
-          target: "/www/wwwroot/dist/"
+          target: "/www/wwwroot/aegean-docs/"
