@@ -29,13 +29,12 @@ jobs:
         run: npm install
       - name: build app
         run: npm run docs:build
-
-      - name: copy file via ssh password
+      - name: 发布到服务器 
         uses: easingthemes/ssh-deploy@v2.1.1
         env:
-           SSH_PRIVATE_KEY: ${{secrets.PRIVATE_KEY}}
-           ARGS: '-avzr --delete'
-           REMOTE_HOST: ${{ secrets.HOST }}
-           REMOTE_USER: 'root'
-           SOURCE: 'docs/.vuepress/dist'
-           TARGET: '/www/wwwroot/dist'
+            SSH_PRIVATE_KEY: ${{ secrets.PRIVATE_KEY }}
+            ARGS: '-avzr --delete'
+            SOURCE: 'docs/.vuepress/dist'
+            REMOTE_HOST: ${{ secrets.HOST }}
+            REMOTE_USER: 'root'
+            TARGET: '/www/wwwroot/dist/'
