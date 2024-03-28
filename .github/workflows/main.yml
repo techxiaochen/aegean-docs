@@ -35,5 +35,5 @@ jobs:
           username: 'root'
           password: ${{ secrets.PASSWORD }}
           port: 22
-          source: "docs/.vuepress/dist"
+          source: "docs"
           target: "www/wwwroot/dist"
