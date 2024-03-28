@@ -33,9 +33,9 @@ jobs:
       - name: copy file via ssh password
         uses: easingthemes/ssh-deploy@v2.1.1
         env:
-         SSH_PRIVATE_KEY: ${{secrets.PRIVATE_KEY}}
-         ARGS: '-avzr --delete'
-         REMOTE_HOST: ${{ secrets.HOST }}
-         REMOTE_USER: 'root'
-         SOURCE: 'docs/.vuepress/dist'
-         TARGET: '/www/wwwroot/dist'
+           SSH_PRIVATE_KEY: ${{secrets.PRIVATE_KEY}}
+           ARGS: '-avzr --delete'
+           REMOTE_HOST: ${{ secrets.HOST }}
+           REMOTE_USER: 'root'
+           SOURCE: 'docs/.vuepress/dist'
+           TARGET: '/www/wwwroot/dist'
