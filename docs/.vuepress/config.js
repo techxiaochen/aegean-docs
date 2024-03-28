@@ -32,14 +32,18 @@ module.exports = {
             '/safeproduct':[
                 ['/safeproduct/1','泰旅爱物字1号'],
                 ['/safeproduct/3','泰旅爱物字3号'],
-                ['/safeproduct/6','泰旅爱物字6号']
+                ['/safeproduct/6','泰旅爱物字6号'],
+                ['/safeproduct/10','泰旅爱物字10号'],
             ],
             '/safenote':[
                 ['/safenote/1','泰旅爱物字1号']
             ],
             '/safety-inspection':[
                 ['/safety-inspection/m2-f1','2月份1楼'],
-                ['/safety-inspection/m2-f2','2月份2楼']
+                ['/safety-inspection/m2-f2','2月份2楼'],
+                ['/safety-inspection/m2-f2','2月份3楼'],
+                ['/safety-inspection/m2-f2','2月份4楼'],
+                ['/safety-inspection/m2-f2','2月份5楼']
 
             ]
         }
