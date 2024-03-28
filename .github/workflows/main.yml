@@ -29,12 +29,13 @@ jobs:
         run: npm install
       - name: build app
         run: npm run docs:build
-      - name: 发布到服务器 
-        uses: easingthemes/ssh-deploy@v2.1.1
-        env:
-            SSH_PRIVATE_KEY: ${{ secrets.PRIVATE_KEY }}
-            ARGS: '-avzr --delete'
-            SOURCE: 'docs/.vuepress/dist'
-            REMOTE_HOST: ${{ secrets.HOST }}
-            REMOTE_USER: 'root'
-            TARGET: '/www/wwwroot/dist/'
+      
+      - name: copy file with scp
+        uses: appleboy/scp-action@v0.0.1
+        with:
+             host: {{ secrets.HOST }}
+             username: 'root'
+             password: {{ secrets.USERNAME }}
+             port: 22
+             source: 'docs/.vuepress/dist'
+             target: '/www/wwwroot/dist'
