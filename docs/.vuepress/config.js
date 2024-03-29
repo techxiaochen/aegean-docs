@@ -40,11 +40,11 @@ module.exports = {
                 ['/safenote/1','泰旅爱物字1号']
             ],
             '/safety-inspection':[
-                ['/safety-inspection/m2-f1','3月份1楼'],
-                ['/safety-inspection/m2-f2','3月份2楼'],
-                ['/safety-inspection/m2-f3','3月份3楼'],
-                ['/safety-inspection/m2-f4','3月份4楼'],
-                ['/safety-inspection/m2-f5','3月份5楼']
+                ['/safety-inspection/m3/m2-f1','3月份1楼'],
+                ['/safety-inspection/m3/m2-f2','3月份2楼'],
+                ['/safety-inspection/m3/m2-f3','3月份3楼'],
+                ['/safety-inspection/m3/m2-f4','3月份4楼'],
+                ['/safety-inspection/m3/m2-f5','3月份5楼']
 
             ]
         }
