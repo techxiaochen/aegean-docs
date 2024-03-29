@@ -6,6 +6,7 @@ module.exports = {
     themeConfig: {
         logo:'/logo.png',
         smoothScroll: true,
+        lastUpdated: '更新时间',
         nav:[
             {text:'主页',link:'/'},
             {
@@ -39,11 +40,11 @@ module.exports = {
                 ['/safenote/1','泰旅爱物字1号']
             ],
             '/safety-inspection':[
-                ['/safety-inspection/m2-f1','2月份1楼'],
-                ['/safety-inspection/m2-f2','2月份2楼'],
-                ['/safety-inspection/m2-f2','2月份3楼'],
-                ['/safety-inspection/m2-f2','2月份4楼'],
-                ['/safety-inspection/m2-f2','2月份5楼']
+                ['/safety-inspection/m2-f1','3月份1楼'],
+                ['/safety-inspection/m2-f2','3月份2楼'],
+                ['/safety-inspection/m2-f3','3月份3楼'],
+                ['/safety-inspection/m2-f4','3月份4楼'],
+                ['/safety-inspection/m2-f5','3月份5楼']
 
             ]
         }
