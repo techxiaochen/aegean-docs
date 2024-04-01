@@ -1,5 +1,5 @@
 module.exports = {
-    title: '内部文档',
+    title: '爱琴海公司安全生产档案资料',
     head:[
         ['link', { rel: 'icon', href: '/favicon.png' }]
     ],
