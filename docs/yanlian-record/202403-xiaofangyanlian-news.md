@@ -1,3 +1,7 @@
+---
+lang: "zh-CN"
+---
+
 <h1 style="text-align:center;font-size:30px">爱琴海公司举行2024年第一季消防应急疏散演练
 </h1>
 
@@ -12,7 +16,6 @@
 &emsp;&emsp;演练当天，公司内虚设了一个着火点，模拟火灾发生的真实场景。全体员工按照预定的计划，迅速而有序地进行疏散。在疏散过程中，员工们展现出了良好的应急反应能力和团队协作精神，相互帮助、配合默契，共同应对火灾带来的挑战。
 
 <img src="/work-img/202403-xiaofangyanlian-new2.jpg" > 
-
 ![](/work-img/202403-xiaofangyanlian-new4.jpg)
 ![](/work-img/202403-xiaofangyanlian-new5.jpg)
 ![](/work-img/202403-xiaofangyanlian-new3.jpg)
@@ -23,3 +26,12 @@
 ![](/work-img/202403-xiaofangyanlian-new6.jpg)
 
 &emsp;&emsp;爱琴海公司表示，将继续加强消防安全管理，定期开展消防应急演练，提高员工的消防安全意识和应急反应能力，确保公司的安全生产和员工的人身安全。同时，也呼吁广大员工积极参与消防安全培训和演练，共同营造安全、和谐的工作环境。
+
+---
+[📄1-2024年爱琴海公司第一季度消防演练方案](/files/yanlian-record/1-2024年爱琴海公司第一季度消防演练方案.pdf)
+
+[📄2-2024年爱琴海公司第一季度消防演练分工及流程](/files/yanlian-record/2-2024年爱琴海公司第一季度消防演练分工及流程.pdf)
+
+[📄3-2024年爱琴海公司第一季度消防演练报告](/files/yanlian-record/3-2024年爱琴海公司第一季度消防演练报告.pdf)
+
+[📄4-2024年爱琴海公司第一季度消防演练签到表](/files/yanlian-record/4-2024年爱琴海公司第一季度消防演练签到表.pdf)
