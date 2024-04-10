@@ -7,6 +7,10 @@ sidebar: false
 ---
 
 # 爱琴海公司安全管理委员会办公室文件
+
+## 重要安全生产文件
+### [关于举一反三抓好国务院安委会明查暗访发现问题整改工作的通知](/safenote/important/1.md)
+
 ## 安全生产文件
 ### [泰旅爱物字[2024]1号](/safenote/safeproduct/1.md) 
 ### [泰旅爱物字[2024]2号](/safenote/safeproduct/1.md) 

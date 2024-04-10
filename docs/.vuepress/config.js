@@ -23,6 +23,13 @@ module.exports = {
                     
                 ] 
             },
+            {
+                text:'培训资料',
+                items: [
+                    {text:'消防培训',link: '/safe-knowledge/'}
+                ]
+
+            }
         //     {
         //         text: '安全检查',
         //         items: [
@@ -50,6 +57,9 @@ module.exports = {
                 ['/safenote/safeproduct/10','泰旅爱物字10号'],
                 ['/safenote/safeproduct/11','泰旅爱物字11号'],
                 ['/safenote/safeproduct/12','泰旅爱物字12号']
+            ],
+            '/safenote/important':[
+                ['/safenote/important/1','泰安市安委会文件']
             ],
             // '/safenote':[
             //     ['/safenote/1','泰旅爱物字1号'],
