@@ -20,6 +20,7 @@ module.exports = {
                     {text:'安全生产规章制度',link:'/safety-rules/'},
                     {text:'安全生产隐患排查',link: '/safety-inspection/'},
                     {text:'应急演练',link:'/yanlian-record/'},
+                    {text:'双重预防体系',link:'/yanlian-record/'},
                     
                 ] 
             },
@@ -59,7 +60,10 @@ module.exports = {
                 ['/safenote/safeproduct/12','泰旅爱物字12号']
             ],
             '/safenote/important':[
-                ['/safenote/important/1','泰安市安委会文件']
+                ['/safenote/important/2','国务院安委会文件'],
+                ['/safenote/important/3','国务院安委办文件'],
+                ['/safenote/important/1','泰安市安委会文件'],
+            
             ],
             // '/safenote':[
             //     ['/safenote/1','泰旅爱物字1号'],

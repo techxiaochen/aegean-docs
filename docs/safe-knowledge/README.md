@@ -6,6 +6,6 @@
 sidebar: false
 ---
 
-#安全知识
+# 安全知识
 ## 消防知识
 1. [消防知识应知应会](/safe-knowledge/fireKnowledge.md)
