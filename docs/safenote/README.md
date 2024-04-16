@@ -26,6 +26,8 @@ sidebar: false
 ### [泰旅爱物字[2024]10号](/safenote/safeproduct/10.md) 
 ### [泰旅爱物字[2024]11号](/safenote/safeproduct/11.md)
 ### [泰旅爱物字[2024]12号](/safenote/safeproduct/12.md) 
+### [泰旅爱物字[2024]13号](/safenote/safeproduct/13.md) 
+### [泰旅爱物字[2024]14号](/safenote/safeproduct/14.md) 
 ---
 ### 通报文件
 ---

@@ -57,7 +57,9 @@ module.exports = {
                 ['/safenote/safeproduct/9','泰旅爱物字9号'],
                 ['/safenote/safeproduct/10','泰旅爱物字10号'],
                 ['/safenote/safeproduct/11','泰旅爱物字11号'],
-                ['/safenote/safeproduct/12','泰旅爱物字12号']
+                ['/safenote/safeproduct/12','泰旅爱物字12号'],
+                ['/safenote/safeproduct/13','泰旅爱物字13号'],
+                ['/safenote/safeproduct/14','泰旅爱物字14号'],
             ],
             '/safenote/important':[
                 ['/safenote/important/2','国务院安委会文件'],
