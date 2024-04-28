@@ -2,7 +2,6 @@
 # home: true
 lang: "zh-CN"
 heroImage: /hero.jpg
-heroText: 人人讲安全 个个应急
 ---
 # 档案资料目录
 

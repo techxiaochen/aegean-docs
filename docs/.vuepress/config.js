@@ -20,7 +20,7 @@ module.exports = {
                     {text:'安全生产规章制度',link:'/safety-rules/'},
                     {text:'安全生产隐患排查',link: '/safety-inspection/'},
                     {text:'应急演练',link:'/yanlian-record/'},
-                    {text:'双重预防体系',link:'/yanlian-record/'},
+                    // {text:'双重预防体系',link:'/yanlian-record/'},
                     
                 ] 
             },
