@@ -10,5 +10,8 @@
   },
   "devDependencies": {
     "vuepress": "^1.9.10"
+  },
+  "dependencies": {
+    "core-js": "^3.37.0"
   }
 }

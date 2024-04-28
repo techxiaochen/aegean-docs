@@ -45,7 +45,7 @@
 </template>
 
 <script>
-import inspectionData from './insRecord';
+import inspectionData from '../../safety-inspection/202404/insRecord';
 export default {
     data(){
         return {
